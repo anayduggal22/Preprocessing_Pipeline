@@ -5,7 +5,6 @@
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square)
 
 > Building clean, reusable preprocessing pipelines using scikit-learn's `Pipeline` and `ColumnTransformer`.  
-> Part of my Phase 6 Data Science Roadmap.
 
 ---
 
